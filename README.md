@@ -12,7 +12,6 @@ Parking management
 Toll collection systems
 Security and surveillance
 Vehicle tracking
-
 This project detects number plates using a trained YOLO model, reads the plate text using OCR, and matches it with stored vehicle records.
 
 🧠 Key Features
