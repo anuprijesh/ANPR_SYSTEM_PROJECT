@@ -1,0 +1,4 @@
+anpr_env/
+__pycache__/
+*.pyc
+output_results/
